@@ -28,3 +28,8 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
 ## Test installation
 sudo docker run hello-world
+
+## useful tools
+sudo apt-get install -y htop \
+     tmux \
+     tree
