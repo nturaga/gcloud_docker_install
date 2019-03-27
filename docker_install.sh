@@ -32,4 +32,5 @@ sudo docker run hello-world
 ## useful tools
 sudo apt-get install -y htop \
      tmux \
-     tree
+     tree \
+     git
